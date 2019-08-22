@@ -3,6 +3,9 @@
 元ネタ
 https://www.houjin-bangou.nta.go.jp/download/zenken/#csv-sjis
 
+all_20190731.zip : 上記から国の機関を除外して、項目を絞ったもの
+out_20190731.zip : 閉鎖されたものだけ
+
 閉鎖された件数
 
 全期間：248690　（うち、19423 は合併によるもの）  
